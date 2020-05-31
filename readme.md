@@ -1,4 +1,4 @@
-# Image recognition api
+# Text similarity between two documents
 
 Recognize similarity between two text documents.
 
